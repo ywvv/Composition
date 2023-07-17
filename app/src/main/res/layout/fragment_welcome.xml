@@ -27,6 +27,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="16dp"
             android:text="@string/welcome_title"
+            android:textAlignment="center"
             android:textSize="24sp"
             app:layout_constraintTop_toBottomOf="@id/iv_logo" />
 
